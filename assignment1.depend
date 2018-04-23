@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489426016 source:d:\fci\fles\assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1489860366 source:c:\users\first\downloads\assignment1\main.cpp
+	<bits/stdc++.h>
+	<strstream>
+
+1489927738 source:b:\mozakra\term tany\files\assignment1\main.cpp
+	<bits/stdc++.h>
+	<strstream>
+
+1494503409 source:b:\mozakra\term tany\files\assigns\assignment1\assig1\main.cpp
+	<bits/stdc++.h>
+	<strstream>
+
